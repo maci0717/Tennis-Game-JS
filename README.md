@@ -1,7 +1,7 @@
 # Tennis-Game-JS
 2D tennis game
 
-1st edition is playing for both players, left and right
+1st edition is playing as both players, left and right
 
 2nd edition is playing vs computer
 
